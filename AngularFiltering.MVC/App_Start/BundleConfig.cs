@@ -11,6 +11,7 @@ namespace AngularFiltering.MVC
                 .Include("~/Content/less/style.less"));
 
             bundles.Add(new ScriptBundle("~/bundles/app")
+                .IncludeDirectory("~/Scripts/services", "*.js")
                 .IncludeDirectory("~/Scripts/controllers", "*.js")
                 .Include("~/Scripts/config.js")
                 .Include("~/Scripts/app.js"));
