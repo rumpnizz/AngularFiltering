@@ -110,6 +110,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="Content\less\style.css">
       <DependentUpon>style.less</DependentUpon>
     </Content>
@@ -120,6 +121,30 @@
     <Content Include="Content\less\style.css.map">
       <DependentUpon>style.css</DependentUpon>
     </Content>
+=======
+    <Content Include="Content\fonts\glyphicons-filetypes-regular.svg" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\fonts\glyphicons-regular.svg" />
+    <Content Include="Content\fonts\glyphicons-social-regular.svg" />
+    <Content Include="packages.config" />
+    <Content Include="Content\less\responsive.less" />
+    <Content Include="Content\less\mixins.less" />
+    <Content Include="Content\less\glyphicons.less" />
+    <Content Include="Content\fonts\glyphicons-filetypes-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-filetypes-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-filetypes-regular.woff" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\fonts\glyphicons-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-regular.woff" />
+    <Content Include="Content\fonts\glyphicons-social-regular.eot" />
+    <Content Include="Content\fonts\glyphicons-social-regular.ttf" />
+    <Content Include="Content\fonts\glyphicons-social-regular.woff" />
+    <Content Include="Scripts\config.js" />
+    <Content Include="Views\Product\List.cshtml" />
+>>>>>>> 43ea1c07c891264164b01d36978340f5a5e4b54a
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -129,6 +154,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Scripts\app.js" />
+    <Content Include="Scripts\controllers\product-controller.js" />
     <Content Include="Scripts\libs\angular-animate.js" />
     <Content Include="Scripts\libs\angular-animate.min.js" />
     <Content Include="Scripts\libs\angular-aria.js" />
@@ -913,8 +940,6 @@
     <Content Include="Web.config" />
     <Content Include="Scripts\libs\jquery-1.11.1.min.map" />
     <Content Include="Scripts\libs\version.json" />
-    <Content Include="Views\_ViewStart.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\web.config" />
   </ItemGroup>
@@ -923,6 +948,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LazyLoaderController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

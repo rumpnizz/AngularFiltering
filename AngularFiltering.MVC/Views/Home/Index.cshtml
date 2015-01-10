@@ -1,8 +1,30 @@
-﻿
-@{
-    ViewBag.Title = "Index";
-}
+﻿<!doctype html>
+<html ng-app="app" ng-controller="ProductController">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title ng-bind="viewbag.title"></title>
 
-<h2>Index</h2>
+        <script src="@Url.Content("~/Scripts/libs/angular.min.js")"></script>
+        <script src="@Url.Content("~/Scripts/libs/angular-route.min.js")"></script>
+        @Scripts.Render("~/bundles/app")
+        @Styles.Render("~/Content/less")
+    </head>    
+    <body>
+        
+        <div class="container">
+            <ul class="row">
+                <li class="col sm-1"><a href="/#/home">Home</a></li>
+                <li class="col sm-1"><a href="/#/products">Products</a></li>
+            </ul>
+
+            <h1>{{viewbag.title}}</h1>
+
+            <div ng-view></div>
+        </div>
+    </body>
+</html>
+
+
 
 
