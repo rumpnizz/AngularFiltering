@@ -146,10 +146,7 @@
     <Content Include="Scripts\config.js" />
     <Content Include="Scripts\services\apiService.js" />
     <Content Include="Views\Product\List.cshtml" />
-<<<<<<< HEAD
-=======
     <Content Include="Views\Product\AddEdit.cshtml" />
->>>>>>> 7f4926847bb3596b94fe1fff5417a59802c9da26
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
