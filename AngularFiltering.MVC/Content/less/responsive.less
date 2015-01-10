@@ -1,0 +1,40 @@
+﻿
+@import "mixins.less";
+
+@responsive-width: 1170px;
+@responsive-padding: 15px;
+
+.container {
+    position: relative;
+    max-width: @responsive-width;
+    padding-left: @responsive-padding;
+    padding-right: @responsive-padding;
+    margin: 0 auto;
+    .clearfix();
+}
+
+.row {
+    margin-left: -@responsive-padding;
+    margin-right: -@responsive-padding;
+    padding-left: @responsive-padding / 2;
+    padding-right: @responsive-padding / 2;
+    .clearfix();
+}
+
+
+.col {
+    padding: (@responsive-padding / 2);
+    min-height: 1px;
+    float: left;
+    width: 100%;
+}
+
+@responsive-iterations: 12;
+.col-loop(@index) when (@index > 0) {
+    (~".col.sm-@{index}") {
+        width: percentage(100 / @responsive-iterations * @index / 100);
+    }
+    .col-loop(@index - 1);
+}
+
+.col-loop(@responsive-iterations);

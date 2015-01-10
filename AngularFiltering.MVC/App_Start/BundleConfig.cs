@@ -10,8 +10,10 @@ namespace AngularFiltering.MVC
             bundles.Add(new LessBundle("~/Content/less")
                 .Include("~/Content/less/style.less"));
 
-            bundles.Add(new ScriptBundle("~/bundles/angularjs")
-                .Include("~/Scripts/libs/angular.js"));
+            bundles.Add(new ScriptBundle("~/bundles/app")
+                .IncludeDirectory("~/Scripts/controllers", "*.js")
+                .Include("~/Scripts/config.js")
+                .Include("~/Scripts/app.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery")
                 .Include("~/Scripts/libs/jquery-{version}.js"));
