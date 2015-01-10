@@ -110,18 +110,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Content Include="Content\less\style.css">
-      <DependentUpon>style.less</DependentUpon>
-    </Content>
-    <Content Include="Content\less\style.min.css">
-      <DependentUpon>style.css</DependentUpon>
-    </Content>
-    <Content Include="packages.config" />
-    <Content Include="Content\less\style.css.map">
-      <DependentUpon>style.css</DependentUpon>
-    </Content>
-=======
     <Content Include="Content\fonts\glyphicons-filetypes-regular.svg" />
     <Content Include="Content\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Content\fonts\glyphicons-regular.svg" />
@@ -144,7 +132,6 @@
     <Content Include="Content\fonts\glyphicons-social-regular.woff" />
     <Content Include="Scripts\config.js" />
     <Content Include="Views\Product\List.cshtml" />
->>>>>>> 43ea1c07c891264164b01d36978340f5a5e4b54a
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
