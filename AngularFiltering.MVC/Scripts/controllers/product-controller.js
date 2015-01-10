@@ -1,6 +1,7 @@
 ﻿
 var ProductController = function ($scope, apiService) {
     var url = '/api/products';
+
     $scope.viewbag = {
         title: 'Hello World!'
     };
