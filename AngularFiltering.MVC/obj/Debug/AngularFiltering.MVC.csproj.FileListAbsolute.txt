@@ -34,3 +34,39 @@ C:\.NET Projects\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.R
 C:\.NET Projects\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.csprojResolveAssemblyReference.cache
 C:\.NET Projects\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.dll
 C:\.NET Projects\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\AngularFiltering.MVC.dll.config
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\AngularFiltering.MVC.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\AngularFiltering.MVC.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\AngularFiltering.DAL.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\Antlr3.Runtime.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\dotless.Core.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\EntityFramework.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\Newtonsoft.Json.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Helpers.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Mvc.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Optimization.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Optimization.Less.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Razor.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\WebGrease.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\AngularFiltering.DAL.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\EntityFramework.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\Newtonsoft.Json.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Helpers.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Mvc.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Optimization.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Optimization.Less.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Optimization.Less.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.Razor.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.csprojResolveAssemblyReference.cache
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.MVC\obj\Debug\AngularFiltering.MVC.pdb

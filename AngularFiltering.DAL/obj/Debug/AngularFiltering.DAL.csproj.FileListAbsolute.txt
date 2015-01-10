@@ -9,3 +9,15 @@ C:\.NET Projects\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFilterin
 C:\.NET Projects\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.pdb
 C:\.NET Projects\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.Migrations.Initialize.resources
 C:\.NET Projects\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.csproj.GenerateResource.Cache
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\AngularFiltering.DAL.dll.config
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\AngularFiltering.DAL.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\AngularFiltering.DAL.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\EntityFramework.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\EntityFramework.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.Migrations.Initialize.resources
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.csproj.GenerateResource.Cache
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.dll
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.pdb
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.Migrations.addinguser.resources
