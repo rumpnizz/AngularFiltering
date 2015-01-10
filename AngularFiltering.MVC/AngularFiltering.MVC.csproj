@@ -110,7 +110,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\less\style.css">
+      <DependentUpon>style.less</DependentUpon>
+    </Content>
+    <Content Include="Content\less\style.min.css">
+      <DependentUpon>style.css</DependentUpon>
+    </Content>
     <Content Include="packages.config" />
+    <Content Include="Content\less\style.css.map">
+      <DependentUpon>style.css</DependentUpon>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

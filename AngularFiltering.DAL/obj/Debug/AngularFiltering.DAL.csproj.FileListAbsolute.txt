@@ -21,3 +21,4 @@ C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\ob
 C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.dll
 C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.pdb
 C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.Migrations.addinguser.resources
+C:\Users\oskar.larsson\angularfiltering\AngularFiltering\AngularFiltering.DAL\obj\Debug\AngularFiltering.DAL.csprojResolveAssemblyReference.cache
